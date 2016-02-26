@@ -1,4 +1,4 @@
-# MaskedInput
+# maskedinput
 A Backbone.js input masking module.
 
 A Backbone.View for applying Masks to inputs. This uses the
